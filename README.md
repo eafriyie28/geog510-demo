@@ -9,3 +9,11 @@ import leafmap
 m = leafmap.Map()
 m
 ```
+[Course website](https://geog-510.gishub.org/book/software/jupyterlab.html#keyboard-shortcuts)
+
+### Adding Nick
+```bash
+![zootopia](https://i.imgur.com/ZBwwcjo.gif)
+```
+preview:
+![zootopia](https://i.imgur.com/ZBwwcjo.gif)
